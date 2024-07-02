@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Free contributor.
-I’m currently learning crypto.
+
+🌱 I’m currently learning crypto.
+👯 I’m looking to collaborate on rust project
 Interesting!
